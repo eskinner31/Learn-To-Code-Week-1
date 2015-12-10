@@ -1,0 +1,3 @@
+- Change the inner-text of all of the elements to something that describes you
+
+- Modify all of the image links (src) so that they are related to your Topic
